@@ -1,0 +1,389 @@
+body{
+    background-color: #363543;
+    
+    margin: 0 auto;
+}
+
+.logoicon{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 20px;
+}
+
+
+.logoname{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    letter-spacing: 1.5;
+    position: relative;
+    top: 20px;
+}
+.logomargin{
+    margin: 43px;
+    margin-left: 100px;
+}
+ul li {
+    display: inline;
+    padding: 50px;
+    margin-bottom: 50px;
+    z-index: 9999;
+   
+    
+    
+}
+.menu{
+    text-decoration: none;
+    margin-bottom: 50px;
+    color: #757482;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    margin-top: -66px;
+    margin-left: 424px;
+    z-index: 9999;
+    padding-left: 24px;
+    position: relative;
+}
+
+.wrap{
+    float: right;
+    margin-right: 110px;
+    margin-top: -45px;
+}
+
+.menu1{
+    background-color:#757482;
+    margin: 6px 0;
+    width: 50%;
+    height: 10%;
+}
+div.menu1{
+    width: 33px;
+    height: 4px;
+    background-color:#757482;
+}
+.linkedin{
+    color: white;
+    height: 20px;
+    width: 20px;
+    margin-left: 1424px;
+    position: relative;
+    top: 20px;
+}
+.line{
+    background-color:#ffb917;
+    width: 16%;
+    height: 0.5%;
+    margin-left: 95px;
+    margin-top: -41px;
+}
+.Jheadline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin-top: 305px;
+    margin-left: 95px;
+    color: white;
+}
+.iam{
+    font-size: 80px;
+    font-weight: 400;
+   color: #757482;
+}
+.dis{
+    font-size: 30px;
+    color: #757482;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    padding: 29px 13px 32px 98px;
+    width: 529px;
+    height: 200px;
+    text-align: justify;
+}
+.divimg{
+    position: relative;
+    bottom: 700px;
+    left: 635px;
+}
+.services{
+    position: relative;
+    left: 1260px;
+    bottom: 1390px;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 1px;
+    padding: 10px;
+    width: 320px;
+    height: 200px;
+    text-align: justify;
+}
+.services a{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.showmore{
+    position: relative;
+    top: 35px;
+    color: #ffb917;
+    
+}
+.arrow{
+    height: 38px;
+    position: relative;
+    bottom: 30px;
+    left: 125px;
+}
+.socialbar{
+    background-color: #414052;
+    margin-left: 95px;
+    margin-right: 95px;
+    width: 1680px;
+    position: relative;
+    bottom: 920px;
+    height: 209px;
+}
+
+.container > div{
+    height: 200px;
+    width: 650px;
+    text-align:center; 
+}
+h1{
+    font-size: 50px;
+}
+
+.container{
+    display:flex;
+    justify-content: space-between;
+    gap: 53px;
+
+    position: relative;
+    bottom: 1080px;
+    margin-right: 124px;
+    margin-left: 95px;
+    padding: 52px;
+    
+}
+.Meta-Logo{
+    height: 200px;
+    width: 320px;
+}
+.Google-Logo1{
+    height: 110px;
+    width: 320px;
+    margin-top: 53px;
+}
+.link22{
+    height: 78px;
+    width: 290px;
+    margin-top: 62px;
+}
+.kind{
+    height: 89px;
+    width: 330px;
+    margin-top: 59px;
+}
+.section{
+    background-color: #282834;
+    height: 260%;
+    width: 100%;
+    position: relative;
+    bottom: 1250px;
+    z-index: -9999;
+}
+.facebook1{
+    width: 39px;
+    top: 43px;
+    right: 38px;
+    position: relative;
+}
+.Twitter1{
+    width: 40px;
+    position: relative;
+    top: 43px;
+    left: -25px;
+}
+    
+.instagram{
+    width: 42px;
+    position: relative;
+    top: 43px;
+    left: -11px;
+}
+.printerest{
+    width: 42px;
+    position: relative;
+    top: 43px;
+    left: 2px;
+}
+.MY{
+    position: relative;
+    height: 931px;
+    width: 50%;
+    bottom: 861px;
+    left: 440px;
+}
+.bottomtit{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 345%;
+    left: 95px;
+    font-weight: 700;
+    font-size: 60px;
+    color: white;
+}
+.bottompara{
+    
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #757482;
+    padding: 0px;
+    width: 460px;
+    height: 200px;
+    text-align: left;
+    position: relative;
+    bottom:3149px;
+    left: 100px;
+    letter-spacing: 0.50px;
+}
+.circle{
+    background-color: #2b2a38;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    border-radius: 490px;
+    left: 650px;
+    bottom: 4790px;
+    z-index: -9999;
+}
+
+.project{
+    position: relative;
+    bottom: 410%;
+    left: 90px;
+    
+}
+.project250{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffb917;
+    font-size: 39px;
+    font-weight: bold;
+}
+.Project-Completed{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #757482;
+    position: relative;
+    font-size: 20px;
+    bottom: 12px;
+}
+
+.p2{
+    position: relative;
+    left: 273px;
+    bottom: 108px;
+}
+.p3{
+    position: relative;
+    bottom: 70px;
+}
+.p4{
+    position: relative;
+    left: 273px;
+    bottom: 178px;
+}
+.gloab{
+    color: white;
+    height: 20px;
+    width: 20px;
+    margin-left: 1544px; 
+    position: relative;
+    bottom: 5px;
+}     
+.portfolio1{
+    height: 160px;
+    width: 260px;
+}
+
+.portfolio2{
+    height: 160px;
+    width: 260px;
+}
+
+.portfolio3{
+    height: 160px;
+    width: 260px;
+}
+
+.port1 , .port2 , .port3 {
+            
+    position: relative;
+    bottom: 493%;
+    padding-bottom: 60px;
+    left: 50%;
+}
+.portline1, .portline2, .portline3{
+    background-color: #757482;
+    width: 37%;
+    height: 0.3%;
+    position: relative;
+    top: 31px;
+}
+.uiux{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: xx-large;
+    color: white;
+    bottom: 152px;
+    left: 319px;
+}
+
+.project117{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #757482;
+    bottom: 152px;
+    left: 319px;
+}
+.Front-End-Develop{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: xx-large;
+    color: white;
+    bottom: 152px;
+    left: 319px;
+}
+.project84{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #757482;
+    bottom: 152px;
+    left: 319px;
+}
+.Mobile-App-Develop{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: xx-large;
+    color: white;
+    bottom: 152px;
+    left: 319px;
+
+}
+.project32{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #757482;
+    bottom: 152px;
+    left: 319px;
+}
+.arrow32{
+    height: 50px;
+    position: relative;
+    left: 670px;
+    bottom: 240px;
+}
